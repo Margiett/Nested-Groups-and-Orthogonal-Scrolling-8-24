@@ -15,6 +15,7 @@
 		9FE6B59524F403B600D85A70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FE6B59424F403B600D85A70 /* Assets.xcassets */; };
 		9FE6B59824F403B600D85A70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FE6B59624F403B600D85A70 /* LaunchScreen.storyboard */; };
 		9FE6B5A324F403B700D85A70 /* Nested_Group_August_24Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE6B5A224F403B700D85A70 /* Nested_Group_August_24Tests.swift */; };
+		9FE6B5AE24FD908300D85A70 /* LabelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE6B5AD24FD908300D85A70 /* LabelCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		9FE6B59E24F403B700D85A70 /* Nested-Group-August-24Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nested-Group-August-24Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FE6B5A224F403B700D85A70 /* Nested_Group_August_24Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nested_Group_August_24Tests.swift; sourceTree = "<group>"; };
 		9FE6B5A424F403B700D85A70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FE6B5AD24FD908300D85A70 /* LabelCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				9FE6B58824F403B100D85A70 /* AppDelegate.swift */,
+				9FE6B5AD24FD908300D85A70 /* LabelCell.swift */,
 				9FE6B58A24F403B100D85A70 /* SceneDelegate.swift */,
 				9FE6B58C24F403B100D85A70 /* ViewController.swift */,
 				9FE6B58E24F403B100D85A70 /* Main.storyboard */,
@@ -206,6 +209,7 @@
 				9FE6B58D24F403B100D85A70 /* ViewController.swift in Sources */,
 				9FE6B58924F403B100D85A70 /* AppDelegate.swift in Sources */,
 				9FE6B58B24F403B100D85A70 /* SceneDelegate.swift in Sources */,
+				9FE6B5AE24FD908300D85A70 /* LabelCell.swift in Sources */,
 				9FE6B59324F403B200D85A70 /* Nested_Group_August_24.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
